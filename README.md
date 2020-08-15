@@ -9,7 +9,6 @@
 
 ### Connect with me: 
 [<img align="left" alt="Hudson Duarte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Hudson Duarte | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
 [<img align="left" alt="Hudson Duarte | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftoutlook.svg" />][outlook]
 <br />
 <br />
