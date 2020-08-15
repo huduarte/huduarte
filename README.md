@@ -2,7 +2,7 @@
 
 ### Hi there `I'm Hudson Duarte,` welcome to my profile 👋
 
-- :rocket: Student of the 13th class of Rocketseat's GoStack bootcamp: Studying ReactJS, React Native, NodeJS and Typescript;
+- :rocket: Student of the 13th class of Rocketseat's GoStack bootcamp: ReactJS, React Native, NodeJS and Typescript;
 - :books: I take a technical course on systems development at [SENAI](http://senaiweb.fieb.org.br/senai2/cursos/desenvolvimento-de-sistemas).
 
 - I like to solve problems :exploding_head:
