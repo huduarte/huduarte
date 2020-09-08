@@ -1,6 +1,6 @@
 <img align="right" width="400" src="https://hackernoon.com/images/f2px36fy.gif" />
 
-### Olá `Eu sou Hudson Duarte,` bem-vindo ao meu perfil! 👋
+### Olá! `Eu sou Hudson Duarte,` bem-vindo ao meu perfil! 👋
 
 - Aluno da 13ª turma do bootcamp GoStack da Rocketseat: Estudando ReactJS, React Native, NodeJS e Typescript;
 - Cursando Desenvolvimento de Sistemas no [SENAI](http://senaiweb.fieb.org.br/senai2/cursos/desenvolvimento-de-sistemas).
