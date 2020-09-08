@@ -1,19 +1,17 @@
 <img align="right" width="400" src="https://hackernoon.com/images/f2px36fy.gif" />
 
-### Hi there `I'm Hudson Duarte,` welcome to my profile 👋
+### Olá `Eu sou Hudson Duarte,` bem-vindo ao meu perfil! 👋
 
-- Student of the 13th class of Rocketseat's GoStack bootcamp: ReactJS, React Native, NodeJS and Typescript;
-- I take a technical course on systems development at [SENAI](http://senaiweb.fieb.org.br/senai2/cursos/desenvolvimento-de-sistemas).
+- Aluno da 13ª turma do bootcamp GoStack da Rocketseat: Estudando ReactJS, React Native, NodeJS e Typescript;
+- Cursando Desenvolvimento de Sistemas no [SENAI](http://senaiweb.fieb.org.br/senai2/cursos/desenvolvimento-de-sistemas).
 
-- I like to solve problems
-
-### Connect with me: 
+### Se conecte comigo: 
 [<img align="left" alt="Hudson Duarte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Hudson Duarte | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftoutlook.svg" />][outlook]
 <br />
 <br />
 
-- How can I help you ?
+- Como eu posso te ajudar ? ?
 
 [linkedin]: https://www.linkedin.com/in/huduarte/
 [github]: https://github.com/huduarte
