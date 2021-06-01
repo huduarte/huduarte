@@ -2,8 +2,9 @@
 
 ### Olá! `Eu sou Hudson Duarte,` bem-vindo ao meu perfil! 👋
 
-- Aluno da 13ª turma do bootcamp GoStack da Rocketseat: Estudando ReactJS, React Native, NodeJS e Typescript;
+- Aluno do bootcamp Ignite da Rocketseat: Estudando React Native e Typescript;
 - Cursando Desenvolvimento de Sistemas no [SENAI](http://senaiweb.fieb.org.br/senai2/cursos/desenvolvimento-de-sistemas).
+- Cursando Ciência da Computação na [UFBA](https://www.ufba.br/cursos/ciencia-da-computacao).
 
 ### Se conecte comigo: 
 [<img align="left" alt="Hudson Duarte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
