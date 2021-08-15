@@ -4,6 +4,7 @@
 
 - Mobile Developer na [Sinqia](https://www.sinqia.com.br/) utilizando React Native;
 - Aluno do bootcamp [Ignite](https://help.rocketseat.com.br/hc/pt-br/articles/1500003228822-O-que-%C3%A9-o-Ignite-) da Rocketseat: Estudando React Native e Typescript;
+- Aprendendo [Swift](https://developer.apple.com/swift/) para entender sobre desevolvimento nativo iOS.
 - Cursando Ciência da Computação na [UFBA](https://www.ufba.br/cursos/ciencia-da-computacao);
 - Formado em Desenvolvimento de Sistemas no [SENAI](http://senaiweb.fieb.org.br/senai2/cursos/desenvolvimento-de-sistemas).
 
