@@ -5,7 +5,7 @@
 - Mobile Developer na [Sinqia](https://www.sinqia.com.br/) utilizando React Native;
 - Aluno do bootcamp [Ignite](https://help.rocketseat.com.br/hc/pt-br/articles/1500003228822-O-que-%C3%A9-o-Ignite-) da Rocketseat: Estudando React Native e Typescript;
 - Cursando Ciência da Computação na [UFBA](https://www.ufba.br/cursos/ciencia-da-computacao);
-- Formado em Desenvolvimento de Sistemas no [SENAI](http://senaiweb.fieb.org.br/senai2/cursos/desenvolvimento-de-sistemas).
+- Técnico em Desenvolvimento de Sistemas pelo [SENAI](http://senaiweb.fieb.org.br/senai2/cursos/desenvolvimento-de-sistemas).
 
 ### Se conecte comigo: 
 [<img align="left" alt="Hudson Duarte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
