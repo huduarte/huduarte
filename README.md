@@ -2,7 +2,7 @@
 
 ### Olá! `Eu sou Hudson Duarte,` bem-vindo ao meu perfil! 👋
 
-- Mobile Developer na [Sinqia](https://www.sinqia.com.br/) utilizando React Native;
+- Mobile Developer na [Grão | Grupo Primo](https://www.grao.com.br/) utilizando React Native;
 - Aluno do bootcamp [Ignite](https://help.rocketseat.com.br/hc/pt-br/articles/1500003228822-O-que-%C3%A9-o-Ignite-) da Rocketseat: Estudando React Native e Typescript;
 - Cursando Gestão da Tecnologia da Informação [UNIJORGE](https://www.unijorge.edu.br/cursos/graduacao-cst-gestao-da-tecnologia-da-informacao/);
 - Técnico em Desenvolvimento de Sistemas pelo [SENAI](http://senaiweb.fieb.org.br/senai2/cursos/desenvolvimento-de-sistemas).
