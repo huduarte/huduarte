@@ -4,7 +4,6 @@
 
 - Mobile Developer na [Grão | Grupo Primo](https://www.grao.com.br/) utilizando React Native;
 - Aluno do bootcamp [Ignite](https://help.rocketseat.com.br/hc/pt-br/articles/1500003228822-O-que-%C3%A9-o-Ignite-) da Rocketseat: Estudando React Native e Typescript;
-- Cursando Gestão da Tecnologia da Informação [UNIJORGE](https://www.unijorge.edu.br/cursos/graduacao-cst-gestao-da-tecnologia-da-informacao/);
 - Técnico em Desenvolvimento de Sistemas pelo [SENAI](http://senaiweb.fieb.org.br/senai2/cursos/desenvolvimento-de-sistemas).
 
 ### Se conecte comigo: 
@@ -12,8 +11,6 @@
 [<img align="left" alt="Hudson Duarte | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftoutlook.svg" />][outlook]
 <br />
 <br />
-
-- Como eu posso te ajudar ? 
 
 [linkedin]: https://www.linkedin.com/in/huduarte/
 [github]: https://github.com/huduarte
