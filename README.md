@@ -1,9 +1,8 @@
 <img align="right" width="400" src="https://hackernoon.com/images/f2px36fy.gif" />
 
-### Olá! `Eu sou Hudson Duarte,` bem-vindo ao meu perfil! 👋
+### Olá! `Me chamo Hudson Duarte,` e seja bem-vindo ao meu perfil! 👋
 
 - Mobile Developer na [Grão | Grupo Primo](https://www.grao.com.br/) utilizando React Native;
-- Aluno do bootcamp [Ignite](https://help.rocketseat.com.br/hc/pt-br/articles/1500003228822-O-que-%C3%A9-o-Ignite-) da Rocketseat: Estudando React Native e Typescript;
 - Técnico em Desenvolvimento de Sistemas pelo [SENAI](http://senaiweb.fieb.org.br/senai2/cursos/desenvolvimento-de-sistemas).
 
 ### Se conecte comigo: 
