@@ -2,7 +2,7 @@
 
 ### Olá! `Me chamo Hudson Duarte,` e seja bem-vindo ao meu perfil! 👋
 
-- Mobile Developer na [Grão | Grupo Primo](https://www.grao.com.br/) utilizando React Native;
+- Mobile Developer no [Grupo Primo](https://www.grupo-primo.com/) utilizando React Native e Flutter;
 - Técnico em Desenvolvimento de Sistemas pelo [SENAI](http://senaiweb.fieb.org.br/senai2/cursos/desenvolvimento-de-sistemas).
 
 ### Se conecte comigo: 
